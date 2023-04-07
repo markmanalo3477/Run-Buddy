@@ -43,10 +43,26 @@ header nav ul li {
 header nav ul li a {
     margin: 0 30px;
 }
+/* Hero Style Start*/
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+/* Hero Style End */
+.hero-form {
+    font-color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
 
+
+}
 footer {
     background: #fce138;
-    width: 100%
+    width: 100%;
     padding: 40px 35px;
 }
 
@@ -66,3 +82,8 @@ footer div {
 footer a{
     color: #024e76;
 }
+
+section { 
+    padding: 60px;
+}
+   
