@@ -49,16 +49,18 @@ header nav ul li a {
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 /* Hero Style End */
 .hero-form {
-    font-color: #024e76;
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-
-
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
 }
 footer {
     background: #fce138;
